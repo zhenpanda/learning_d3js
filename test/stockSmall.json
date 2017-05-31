@@ -1,0 +1,66 @@
+{
+  "bboList": [
+    {
+      "ask": 235400,
+      "bid": 231800,
+      "timeStr": "09:30:00.000"
+    },
+    {
+      "ask": 235400,
+      "bid": 230900,
+      "timeStr": "09:30:07.819"
+    },
+    {
+      "ask": 238300,
+      "bid": 230900,
+      "timeStr": "09:30:07.819"
+    },
+    {
+      "ask": 238300,
+      "bid": 227500,
+      "timeStr": "09:30:26.786"
+    },
+    {
+      "ask": 239900,
+      "bid": 227500,
+      "timeStr": "09:30:26.786"
+    }
+  ],
+  "tradeList": [
+    {
+      "time": 34574353918784,
+      "price": 233200,
+      "shares": 100,
+      "tradeType": "E",
+      "orderReferenceNumber": 13983473
+    },
+    {
+      "time": 34586652937952,
+      "price": 233200,
+      "shares": 100,
+      "tradeType": "E",
+      "orderReferenceNumber": 13983473
+    },
+    {
+      "time": 34591808534547,
+      "price": 233200,
+      "shares": 100,
+      "tradeType": "E",
+      "orderReferenceNumber": 13983473
+    },
+    {
+      "time": 34591808534547,
+      "price": 233200,
+      "shares": 200,
+      "tradeType": "E",
+      "orderReferenceNumber": 14109397
+    },
+    {
+      "time": 34591808684978,
+      "price": 233200,
+      "shares": 100,
+      "tradeType": "E",
+      "orderReferenceNumber": 14301933
+    }
+  ]
+}
