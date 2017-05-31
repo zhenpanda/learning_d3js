@@ -31,3 +31,19 @@ body,html{
 	stroke: #ccc;
 	shape-rendering: crispEdges;
 }
+.trendline {
+	fill:none;
+	stroke: #ccc;
+	stroke-width: 1px;
+}
+.area {
+	opacity: .7;
+	fill: #336633;
+	stroke-width: 1px;
+}
+
+.area {
+	opacity: .7;
+	fill: #336633;
+	stroke-width: 1px;
+}
